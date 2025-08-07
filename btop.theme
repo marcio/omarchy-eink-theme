@@ -27,21 +27,21 @@ theme[graph_text]="#474747"
 theme[meter_bg]="#cdcdcd"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#474747"
+theme[proc_misc]="#848484"
 
 # CPU, Memory, Network, Proc box outline colors
 theme[cpu_box]="#838087ff" #Mauve
 theme[mem_box]="#c9d1cdff" #Green
 theme[net_box]="#d8d1d2ff" #Maroon
-theme[proc_box]="#c6ccceff" #Blue
+theme[proc_box]="#cbcbcb" #Blue
 
 # Box divider line and small boxes line color
 theme[div_line]="#9ca0b0"
 
 # Temperature graph color (Green -> Yellow -> Red)
-theme[temp_start]="#cad0c9"
-theme[temp_mid]="#cac9c2"
-theme[temp_end]="#cab9bc"
+theme[temp_start]="#d0d0d0"
+theme[temp_mid]="#bdbdbd"
+theme[temp_end]="#b5b5b5"
 
 # CPU graph colors (Teal -> Lavender)
 theme[cpu_start]="#a8a9a9"
@@ -49,12 +49,12 @@ theme[cpu_mid]="#a6a9aa"
 theme[cpu_end]="#9fa0a2"
 
 # Mem/Disk free meter (Mauve -> Lavender -> Blue)
-theme[free_start]="#a9a9a9ff"
+theme[free_start]="#a9a9a9"
 theme[free_mid]="#d2d2d2"
 theme[free_end]="#cacaca"
 
 # Mem/Disk cached meter (Sapphire -> Lavender)
-theme[cached_start]="#b8c4c7"
+theme[cached_start]="#c1c1c1"
 theme[cached_mid]="#b8bdc6"
 theme[cached_end]="#abadb5"
 
