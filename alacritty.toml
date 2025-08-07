@@ -6,11 +6,11 @@ bright_foreground = "#474747"
 
 [colors.cursor]
 text = "#474747"
-cursor = "#414141"
+cursor = "#8a8a8a"
 
 [colors.vi_mode_cursor]
 text = "#acacac"
-cursor = "#414141"
+cursor = "#8a8a8a"
 
 [colors.search.matches]
 foreground = "#e6e6e6"
