@@ -1,5 +1,3 @@
-# https://raw.githubusercontent.com/catppuccin/alacritty/main/catppuccin-latte.toml
-
 [colors.primary]
 background = "#cccccc"
 foreground = "#474747"
