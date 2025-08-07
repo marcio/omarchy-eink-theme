@@ -15,6 +15,7 @@ return {
 			-- :set background=light
 
 			local set_hl = vim.api.nvim_set_hl
+			local mono = require("e-ink.palette").mono()
 			local everforest = require("e-ink.palette").everforest()
 			set_hl(0, "Group", { fg = mono[15] })
 			set_hl(0, "Group", { fg = everforest.green })
