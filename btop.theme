@@ -21,31 +21,31 @@ theme[selected_fg]="#1e66f5"
 theme[inactive_fg]="#8c8fa1"
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
-theme[graph_text]="#dc8a78"
+theme[graph_text]="#fba997"
 
 # Background color of the percentage meters
 theme[meter_bg]="#bcc0cc"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#dc8a78"
+theme[proc_misc]="#fba997"
 
 # CPU, Memory, Network, Proc box outline colors
 theme[cpu_box]="#8839ef" #Mauve
-theme[mem_box]="#40a02b" #Green
-theme[net_box]="#e64553" #Maroon
-theme[proc_box]="#1e66f5" #Blue
+theme[mem_box]="#a3f5c8" #Green
+theme[net_box]="#d1616a" #Maroon
+theme[proc_box]="#adccd5" #Blue
 
 # Box divider line and small boxes line color
 theme[div_line]="#9ca0b0"
 
 # Temperature graph color (Green -> Yellow -> Red)
-theme[temp_start]="#40a02b"
-theme[temp_mid]="#df8e1d"
+theme[temp_start]="#83db6f"
+theme[temp_mid]="#f7cc3f"
 theme[temp_end]="#d20f39"
 
 # CPU graph colors (Teal -> Lavender)
-theme[cpu_start]="#179299"
-theme[cpu_mid]="#209fb5"
+theme[cpu_start]="#43abb1"
+theme[cpu_mid]="#62bfcf"
 theme[cpu_end]="#7287fd"
 
 # Mem/Disk free meter (Mauve -> Lavender -> Blue)
