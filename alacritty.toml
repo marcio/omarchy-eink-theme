@@ -25,12 +25,12 @@ foreground = "#eff1f5"
 background = "#9f9f9f"
 
 [colors.hints.start]
-foreground = "#ffffff"
-background = "#dfdfdf"
+foreground = "#b0b0b0"
+background = "#cccccc"
 
 [colors.hints.end]
-foreground = "#ffffff"
-background = "#6c6f85"
+foreground = "#b0b0b0"
+background = "#cccccc"
 
 [colors.selection]
 text = "#eff1f5"
@@ -43,7 +43,7 @@ green = "#9f9f9f"
 yellow = "#d9d9d9"
 blue = "#a0a0a0"
 magenta = "#b7b3b6"
-cyan = "#7a7a7aff"
+cyan = "#7a7a7a"
 white = "#5c5f77"
 
 [colors.bright]
