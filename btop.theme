@@ -66,7 +66,7 @@ theme[available_end]="#918789"
 # Mem/Disk used meter (Green -> Sky)
 theme[used_start]="#cad0c9"
 theme[used_mid]="#cac9c2"
-theme[used_end]="#ccd0e6"
+theme[used_end]="#c0c2ca"
 
 # Download graph colors (Peach -> Red)
 theme[download_start]="#bdb2ab"
@@ -76,9 +76,9 @@ theme[download_end]="#918789"
 # Upload graph colors (Green -> Sky)
 theme[upload_start]="#cad0c9"
 theme[upload_mid]="#cac9c2"
-theme[upload_end]="#ccd0e6"
+theme[upload_end]="#9fa0a6"
 
 # Process box color gradient for threads, mem and cpu usage (Sapphire -> Mauve)
-theme[process_start]="#209fb5"
-theme[process_mid]="#7287fd"
-theme[process_end]="#8839ef"
+theme[process_start]="#899193"
+theme[process_mid]="#94959c"
+theme[process_end]="#87848a"
