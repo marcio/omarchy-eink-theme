@@ -54,9 +54,9 @@ theme[free_mid]="#99acad"
 theme[free_end]="#5D6178"
 
 # Mem/Disk cached meter (Sapphire -> Lavender)
-theme[cached_start]="#c1c1c1"
-theme[cached_mid]="#b8bdc6"
-theme[cached_end]="#abadb5"
+theme[cached_start]="#7D8281"
+theme[cached_mid]="#6A6F71"
+theme[cached_end]="#595d5f"
 
 # Mem/Disk available meter (Peach -> Red)
 theme[available_start]="#ac8686"
@@ -74,7 +74,7 @@ theme[download_mid]="#b59fa0"
 theme[download_end]="#918789"
 
 # Upload graph colors (Green -> Sky)
-theme[upload_start]="#cad0c9"
+theme[upload_start]="#a3aa9d"
 theme[upload_mid]="#828B7E"
 theme[upload_end]="#9fa0a6"
 
