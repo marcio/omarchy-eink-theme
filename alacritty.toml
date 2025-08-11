@@ -1,16 +1,16 @@
 [colors.primary]
-background = "#cccccc"
-foreground = "#474747"
-dim_foreground = "#8c8fa1"
-bright_foreground = "#474747"
+background = "#B5BBB0"
+foreground = "#585C62"
+dim_foreground = "#6A6F71"
+bright_foreground = "#454952"
 
 [colors.cursor]
-text = "#474747"
-cursor = "#8a8a8a"
+text = "#585C62"
+cursor = "#585C62"
 
 [colors.vi_mode_cursor]
-text = "#acacac"
-cursor = "#8a8a8a"
+text = "#585C62"
+cursor = "#585C62"
 
 [colors.search.matches]
 foreground = "#e6e6e6"

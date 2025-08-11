@@ -10,8 +10,8 @@ return {
 		-- you can set set configuration options here
 		config = function()
 			vim.g.zenbones_darken_comments = 45
-			
-		end
+			vim.cmd.colorscheme("seoulbones")
+		end,
 	},
 	{
 		"LazyVim/LazyVim",
