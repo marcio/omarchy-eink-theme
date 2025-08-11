@@ -1,17 +1,18 @@
 return {
 	{
-		"zenbones-theme/zenbones.nvim",
-		-- Optionally install Lush. Allows for more configuration or extending the colorscheme
-		-- If you don't want to install lush, make sure to set g:zenbones_compat = 1
-		-- In Vim, compat mode is turned on as Lush only works in Neovim.
-		dependencies = "rktjmp/lush.nvim",
-		lazy = false,
-		priority = 1000,
-		-- you can set set configuration options here
+		"navarasu/onedark.nvim",
+		priority = 1000, -- make sure to load this before all the other start plugins
 		config = function()
-			vim.g.zenbones_darken_comments = 45
-			vim.cmd.colorscheme("seoulbones")
-		end,
+			require('onedark').setup {
+				style = 'light',
+				colors = {
+  				  bg = "#B5BBB0",
+				  fg = "#454952",
+  				}
+			}
+			
+			require('onedark').load()
+		end
 	},
 	{
 		"LazyVim/LazyVim",
