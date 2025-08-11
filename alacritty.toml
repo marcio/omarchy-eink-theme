@@ -37,14 +37,14 @@ text = "#e8e8e9"
 background = "#bbbbbb"
 
 [colors.normal]
-black = "#3b3a3a"
-red = "#937777"
-green = "#546151"
-yellow = "#8a8a6b"
-blue = "#5a7080"
-magenta = "#6b5164"
-cyan = "#6e5050"
-white = "#dfdfdf"
+black = "#3A414E"
+red = "#694848"
+green = "#5A6157"
+yellow = "#AEA051"
+blue = "#5D6178"
+magenta = "#917788"
+cyan = "#779193"
+white = "#F5F6F4"
 
 [colors.bright]
 black = "#2e2b2b"
